@@ -44,3 +44,6 @@
 ## Limitações e próximos passos
 - Limitações:
 - Próximos passos:
+
+![Dashboard Resumo](../images/22.jpeg)
+![Dashboard Resumo](../images/23.jpeg)
