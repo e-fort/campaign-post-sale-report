@@ -61,3 +61,9 @@ Este case simula uma análise de pós-venda de campanha de mídia, com foco em:
 
 O objetivo foi demonstrar capacidade analítica, leitura estratégica e tradução de dados em recomendações comerciais.
 
+## Análise Técnica
+
+O notebook completo da análise pode ser acessado em:
+
+notebooks/post_sale_analysis.ipynb
+
