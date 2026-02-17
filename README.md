@@ -30,3 +30,21 @@ Avaliar o desempenho da campanha e responder:
 
 ## Observações
 Dados sensíveis foram omitidos. Quando necessário, números são demonstrados em valores fictícios ou percentuais.
+
+## Resultados Principais
+
+### Comparativo de CPM por Plataforma
+
+![CPM por Plataforma](images/download.png)
+
+### Principais Insights
+
+- Plataforma mais eficiente em custo: X (menor CPM)
+- Melhor performance de clique: Y (maior CTR)
+- Melhor retenção de vídeo: Z (maior VTR)
+
+### Recomendações Estratégicas
+
+1. Priorizar X para campanhas de awareness com foco em eficiência.
+2. Manter Y para estratégias de tráfego.
+3. Ajustar segmentação em plataformas com CPM elevado.
