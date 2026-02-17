@@ -1,0 +1,11 @@
+date,platform,campaign,objective,format,placement,audience,spend,impressions,reach,clicks,video_views,video_completions
+2026-01-01,Meta,Globo_Awareness_01,Awareness,Video,Feed,Broad,1200,180000,52000,540,52000,18200
+2026-01-02,Meta,Globo_Awareness_01,Awareness,Video,Reels,Broad,900,150000,61000,420,68000,22000
+2026-01-03,Meta,Globo_Awareness_01,Awareness,Video,Stories,Interest,750,120000,46000,300,54000,16500
+2026-01-04,Google,Globo_Awareness_01,Awareness,Video,YouTube In-Stream,Affinity,1600,210000,78000,680,72000,19500
+2026-01-05,Google,Globo_Awareness_01,Awareness,Display,GDN,Custom Intent,800,260000,92000,980,0,0
+2026-01-06,TikTok,Globo_Awareness_01,Awareness,Video,For You,Broad,1100,240000,105000,510,84000,24500
+2026-01-07,TikTok,Globo_Awareness_01,Awareness,Video,For You,Interest,900,200000,88000,430,73000,20500
+2026-01-08,Meta,Globo_Awareness_01,Awareness,Video,Feed,Lookalike,1000,170000,54000,500,50000,17000
+2026-01-09,Google,Globo_Awareness_01,Awareness,Video,YouTube In-Stream,Broad,1400,195000,76000,630,69000,19000
+2026-01-10,Meta,Globo_Awareness_01,Awareness,Display,Audience Network,Broad,500,220000,98000,620,0,0
