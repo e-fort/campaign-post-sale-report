@@ -48,3 +48,16 @@ Dados sensíveis foram omitidos. Quando necessário, números são demonstrados 
 1. Priorizar X para campanhas de awareness com foco em eficiência.
 2. Manter Y para estratégias de tráfego.
 3. Ajustar segmentação em plataformas com CPM elevado.
+
+## Sobre o Projeto
+
+Este case simula uma análise de pós-venda de campanha de mídia, com foco em:
+
+- Consolidação de dados multicanal
+- Cálculo de métricas de mídia (CPM, CTR, VTR)
+- Benchmarking entre plataformas
+- Geração de insights acionáveis
+- Construção de narrativa executiva orientada por dados
+
+O objetivo foi demonstrar capacidade analítica, leitura estratégica e tradução de dados em recomendações comerciais.
+
